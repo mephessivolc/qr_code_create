@@ -19,7 +19,7 @@ O algoritmo irá pedir para inserir a URL e um nome para o arquivo gerando o arq
 
 ### Exemplo de uso sem extensão
 ```python
-python main.py
+>>> python main.py
 
 Entre com a url: https://bitbucket.org/ccaface/create_qrcode/src/master/
 Entre com o nome do arquivo: teste
@@ -29,7 +29,7 @@ Será gerado uma imagem com extensão **.png** denominada _teste_
 
 ### Exemplo de uso com extensão
 ```python
-python main.py
+>>> python main.py
 
 Entre com a url: https://bitbucket.org/ccaface/create_qrcode/src/master/
 Entre com o nome do arquivo: teste.jpg
